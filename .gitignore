@@ -1,0 +1,12 @@
+.project
+.classpath
+target
+.settings
+.DS_Store
+MANIFEST.MF
+.pmd
+.checkstyle
+*.iml
+.idea
+nb-configuration.xml
+*.versionsBackup
