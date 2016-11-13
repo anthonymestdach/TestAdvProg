@@ -1,4 +1,4 @@
-package hello;
+package restService;
 
 public class Greeting {
 
